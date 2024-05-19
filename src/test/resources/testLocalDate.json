@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-04-04",
+    "isHoliday": false
+  },
+  {
+    "date": "2024-04-06",
+    "isHoliday": true
+  },
+  {
+    "date": "2024-04-27",
+    "isHoliday": false
+  },
+  {
+    "date": "2024-05-08",
+    "isHoliday": false
+  },
+  {
+    "date": "2024-05-09",
+    "isHoliday": true
+  }
+]
